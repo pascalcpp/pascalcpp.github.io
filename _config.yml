@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HomePage"
 title_separator          : "-"
-name                     : &name "1Bentao Song"
+name                     : &name "Bentao Song"
 description              : &description "personal description"
 url                      : https://pascalcpp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
