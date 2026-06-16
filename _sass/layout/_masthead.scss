@@ -66,17 +66,5 @@
     font-weight: 700;
   }
 
-  &.selected a {
-    color: var(--global-text-color);
-    font-weight: 700;
-    border-bottom: 2px solid var(--global-text-color);
-    pointer-events: none;
-    cursor: default;
-  }
-
-  &.selected a:hover {
-    color: var(--global-text-color);
-    border-bottom: 2px solid var(--global-text-color);
-  }
 }
 
